@@ -1,0 +1,15 @@
+.ui.borderless.topmenu.menu{
+  background-color: grey;
+  box-shadow: none;
+  border: none;
+}
+
+body {
+  background-image: url("http://www.unmotivating.com/wp-content/uploads/2014/09/Limestone-Cave-and-Waterfall-The-Foradada-Cantonigros-Catalonia-Spain.jpg");
+}
+
+div.fixed {
+  position: fixed;
+  left: 100px;
+  bottom: 450px;
+}
