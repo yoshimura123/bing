@@ -11,5 +11,6 @@ body {
 div.fixed {
   position: fixed;
   left: 100px;
+  
   bottom: 450px;
 }
